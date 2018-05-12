@@ -1,0 +1,29 @@
+_repo: Della-illustrazione-delle-lingue-antiche-e-moderne-e-principalmente-dell-italianaprocurata-ne__45120
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45120-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lucchesini, Cesare
+    birthdate: 1756
+    deathdate: 1832
+    gutenberg_agent_id: '42966'
+    url: http://www.gutenberg.org/2009/agents/42966
+description: ''
+gutenberg_bookshelf: IT Linguistica
+gutenberg_issued: '2014-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45120'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'P'
+- !lcsh 'Language and languages'
+title: 'Della illustrazione delle lingue antiche e moderne e principalmente dell''italiana
+
+  procurata nel secolo XVIII. dagli Italiani - Parte II'
+url: http://www.gutenberg.org/ebooks/45120

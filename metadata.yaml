@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42966'
     url: http://www.gutenberg.org/2009/agents/42966
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45120#Della-illustrazione-delle-lingue-antiche-e-moderne-e-principalmente-dell-italianaprocurata-ne_
 gutenberg_bookshelf: IT Linguistica
 gutenberg_issued: '2014-03-12'
 gutenberg_type: Text
